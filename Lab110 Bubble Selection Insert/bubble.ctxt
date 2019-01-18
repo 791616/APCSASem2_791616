@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=bubble
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ bubble\ here.\r\n\r\n\ @author\ Tristan\ Schnur\r\n\ @version\ (110)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=m
+comment2.target=void\ loadArray(int[])
+comment3.params=m
+comment3.target=void\ printArray(int[])
+comment4.params=arr\ a\ b
+comment4.target=void\ swap(int[],\ int,\ int)
+numComments=5
