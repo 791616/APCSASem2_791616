@@ -1,0 +1,39 @@
+#headerDiv{
+  font-size: 25px;
+  text-align: center;
+  background-color: #16465e;
+  height: 300px;
+  width: 1000px;
+  border: dashed blue 1px;
+  float: middle;
+}
+#navDiv{
+  background-color: #16465e;
+  height: 120px;
+  width: 1000px;
+  border: dashed blue 1px;
+}
+#bodyDiv{
+  font-size: 10px;
+  text-align: left;
+  background-color: #16465e;
+  height: 400px;
+  width: 1000px;
+  border: dashed blue 1px;
+}
+#footerDiv{
+  text-align: center;
+  background-color: #16465e;
+  height: 200px;
+  width: 1000px;
+  border: dashed blue 1px;
+}
+.buttDiv{
+  color: black;
+  width: 130px;
+  height: 30px;
+  border: dashed blue 4px;
+  float: left;
+  margin-left: 18px;
+  margin-top: 15px;
+}
